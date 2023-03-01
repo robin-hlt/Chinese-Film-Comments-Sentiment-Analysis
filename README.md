@@ -22,3 +22,4 @@ The structure of the folder：
 >>stopwords.txt  
 >>w2v_model.bin # pretrained word2vector model  
    
+For detailed Chinese interpretation, please refer to .
