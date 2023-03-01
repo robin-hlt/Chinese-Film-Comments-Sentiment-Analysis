@@ -1,7 +1,7 @@
 # Chinese-Film-Comments-Sentiment-Analysis
 A course experiment in Social Networking of NUIST (School of AI)
 
-author:Robin Hua
+author:Robin Hua  
 version:1.0
 
 In this experiment, LSTM is used to analyse the sentiment of film comments which are collected from [douban](https://movie.douban.com/). All codes are implemented in Python3.7. Anaconda is used to manage the virtual environments.
