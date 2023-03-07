@@ -22,4 +22,4 @@ The structure of the folder：
 >>stopwords.txt  
 >>w2v_model.bin # pretrained word2vector model  
    
-Due to the limitation of the file size, the file(w2v_model.bin) fails to upload. You can get w2v_model.bin from [jianshu](https://www.jianshu.com/p/ae5b45e96dbf). For detailed Chinese interpretation, please refer to CDSN.
+Due to the limitation of the file size, the file(w2v_model.bin) fails to upload. You can get w2v_model.bin from [jianshu](https://www.jianshu.com/p/ae5b45e96dbf). For detailed Chinese interpretation, please refer to [CDSN](https://blog.csdn.net/Robin_hlt/article/details/129276790).
